@@ -4,7 +4,7 @@ public enum PlaneType {
 
     BOEING747(100, 350),
     BIGENGINE(50, 150),
-    PROPELLER(20, 75);
+    PROPELLER(4, 75);
 
 
 
